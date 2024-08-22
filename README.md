@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Markbusking</h1>
 <h3 align="center">un apasionado programador argentino</h3>
 
-- alguno de mis proyectos destacados son [Vinipedia](https://github.com/markbus-ai/Vinipedia)
+- alguno de mis proyectos destacados son [Vinipedia](https://github.com/markbus-ai/Vinipedia) [Gemini-desktop](https://github.com/markbus-ai/Gemini-desktop) [gui-pip](https://github.com/markbus-ai/gui-pip)
 
 - 🌱 actualmente sigo aprendiendo sobre **SQL, FastApi**
 
@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markbus-ai&show_icons=true&locale=en" alt="markbus-ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markbus-ai&" alt="markbus-ai" /></p>
