@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, soy Markbusking</h1>
 <h3 align="center">un apasionado programador argentino</h3>
 
-- alguno de mis proyectos destacados son [Vinipedia](https://github.com/markbus-ai/Vinipedia) [Gemini-desktop](https://github.com/markbus-ai/Gemini-desktop) [gui-pip](https://github.com/markbus-ai/gui-pip)
+- 💼 Algunos de mis proyectos destacados son [Vinipedia](https://github.com/markbus-ai/Vinipedia) [Gemini-desktop](https://github.com/markbus-ai/Gemini-desktop) [gui-pip](https://github.com/markbus-ai/gui-pip)
 
 - 🌱 actualmente sigo aprendiendo sobre **SQL, FastApi**
+
+- 💻 Algunos Frameworks que use son **FastApi, Flask, CustomTkinter, Tkinter**
 
 - 📫 Mi email es **markbustos1912@gmail.com**
 
