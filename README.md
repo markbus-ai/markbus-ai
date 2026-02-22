@@ -2,49 +2,28 @@
 <h3 align="center">Backend Developer | Python | Automation & APIs</h3>
 
 <p align="center">
-  <a href="https://markbus-ai.github.io/" target="_blank">Portafolio</a> •
+  <a href="https://markbus-ai.github.io/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/marcos-bustos-7327962ab" target="_blank">LinkedIn</a> •
-  <a href="mailto:markbustos1912@gmail.com">markbustos1912@gmail.com</a>
+  <a href="mailto:markbustos1912@gmail.com">Contact</a>
 </p>
 
 ---
 
-### 🚀 Proyectos Destacados
+### Projects
 
-**🥦 [WhatsPlay](https://github.com/markbus-ai/whatsplay)**
-> High-level WhatsApp automation for humans. No API limits, just logic. `Python` `Playwright`
-
-**🩺 [hypr-doctor](https://github.com/markbus-ai/hypr-doctor)**
-> Diagnostic toolkit for your Hyprland Wayland compositor. `C`
-
-**🕵️ [jobfinder](https://github.com/markbus-ai/jobfinder)**
-> Automated intelligence to streamline the modern job hunt. `Python`
-
-**🛠️ [mutils](https://github.com/markbus-ai/mutils)**
-> Minimalist C utility library for low-level performance. `C`
-
-**📊 [Git-Analytics-Dashboard](https://github.com/markbus-ai/Git-Analytics-Dashboard)**
-> Visual insights and metrics from your local development history. `Python`
-
----
-
-### 💼 Casos de Estudio (Mundo Real)
-
-**🚲 Amigorena Bot** 🔒 *Private Repo*
-> Scaling a local bike shop with automated customer support. `Python` `WhatsPlay`
-
-**🏛️ Sistema Gestión** 🔒 *Private Repo*
-> Internal management system for business operations. `Python`
-
----
-
-### 🧰 Utilidades & Scripts
-
-* 🔴 **[om-rec](https://github.com/markbus-ai/om-rec)** — Lightweight screen recording utility. `C`
-* 🖼️ **[sway_wallpaper_manager](https://github.com/markbus-ai/sway_wallpaper_manager)** — Intelligent wallpaper management for Sway WM. `Python`
-* ✍️ **[writearch](https://github.com/markbus-ai/writearch)** — Arch Linux configuration and dotfiles management. `Shell`
-* 🐒 **[MonoCanalShareIt](https://github.com/markbus-ai/MonoCanalShareIt)** — Automated channel sharing utility. `Python`
-* 🔲 **[qrgen](https://github.com/markbus-ai/qrgen)** — Fast and simple QR code generator. `JavaScript`
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🥦 [**WhatsPlay**](https://github.com/markbus-ai/whatsplay) | High-level WhatsApp automation for humans. No API limits, just logic. | `Python` |
+| 🩺 [**hypr-doctor**](https://github.com/markbus-ai/hypr-doctor) | Diagnostic toolkit for your Hyprland Wayland compositor. | `C` |
+| 🚲 **Amigorena Bot** | Scaling a local bike shop with automated customer support. *(Private)* | `Python` |
+| 🕵️ [**jobfinder**](https://github.com/markbus-ai/jobfinder) | Automated intelligence to streamline the modern job hunt. | `Python` |
+| 🛠️ [**mutils**](https://github.com/markbus-ai/mutils) | Minimalist C utility library for low-level performance. | `C` |
+| 📊 [**Git-Analytics**](https://github.com/markbus-ai/Git-Analytics-Dashboard) | Visual insights and metrics from your local development history. | `Python` |
+| 🔴 [**om-rec**](https://github.com/markbus-ai/om-rec) | Lightweight screen recording utility. | `C` |
+| 🖼️ [**sway_wallpaper**](https://github.com/markbus-ai/sway_wallpaper_manager) | Intelligent wallpaper management for Sway WM. | `Python` |
+| ✍️ [**writearch**](https://github.com/markbus-ai/writearch) | Minimalist notes app, jotting down ideas has never been so quick and easy | `Python` |
+| 🐒 [**MonoCanalShareIt**](https://github.com/markbus-ai/MonoCanalShareIt)| Automated channel sharing utility. | `Python` |
+| 🔲 [**qrgen**](https://github.com/markbus-ai/qrgen) | Fast and simple QR code generator. | `React` |
 
 ---
 
